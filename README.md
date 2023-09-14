@@ -1,16 +1,17 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**Laricamargo/Laricamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Larissa Camargo 
 
-Here are some ideas to get you started:
+- Estou estudando na Alura;
+- Estou me desenvolvendo na linguagem JavaScript;
+- Utilizo esse espaço para minha organização e compartilhando dos meu projetos desenvolvidos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo 📫
+
+Larissa.schreiber.camargo@escola.pr.gov.br 
+
+@larissa_.041 
+
+![](![image](https://github.com/Laricamargo/Laricamargo/assets/145013337/caf089a6-3f7b-40ee-94d3-3f90433302e0)) 
+
+
